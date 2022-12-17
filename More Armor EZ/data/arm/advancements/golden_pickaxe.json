@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "arm:golden_pickaxe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "arm:golden_pickaxe"
+    }
+}

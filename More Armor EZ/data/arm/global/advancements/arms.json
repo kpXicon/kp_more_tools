@@ -1,0 +1,23 @@
+{
+	"display": {
+		"title": "Warp Shrines                          ",
+		"description": [
+			{
+				"text": "Adds More And More Tools to Minecraft to improve Quality of life!",
+				"color": "gray"
+			}
+		],
+		"icon": {
+			"item": "minecraft:iron_pickaxe",
+			"nbt": "{Enchantments:[{}]}"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:kpxicon",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "arm:amethyst_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "arm:amethyst/amethyst_sword"
+    }
+}

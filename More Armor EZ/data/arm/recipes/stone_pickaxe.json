@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:stone_pickaxe"
+    },
+    "addition": {
+        "item": "minecraft:coal"
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

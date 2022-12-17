@@ -1,0 +1,9 @@
+{
+    "condition": "minecraft:match_tool",
+    "predicate": {
+      "items": [
+        "minecraft:diamond_hoe"
+        ],"nbt":"{Amethyst:1}"
+    }
+}
+  
